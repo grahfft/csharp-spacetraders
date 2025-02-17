@@ -1,0 +1,1 @@
+public record BookInput(string title, Guid author);
