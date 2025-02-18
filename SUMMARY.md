@@ -4,4 +4,4 @@
 
 ## Discovery And Framing
 
-* [initial](discovery-and-framing/initial.md)
+* [initial](/docs/discovery-and-framing/initial.md)
