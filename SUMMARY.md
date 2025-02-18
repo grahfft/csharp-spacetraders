@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome!](/docs/README.md)
 
 ## Discovery And Framing
 
